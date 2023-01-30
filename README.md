@@ -1,5 +1,5 @@
 ### Hey, I'm Iyari 👋 
-I am a mechatronics engineer, and I am also learning web development. 
+I am a mechatronics engineer, and I am also learning web development. 🦞 
 <!--
 **MaestroMiyagi/MaestroMiyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
