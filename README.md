@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iyari</h1>
 <h3 align="center">I am a mechatronics engineer, and I am also learning web development. 🦞</h3>
 
-- 🌱 I’m currently learning **Front-end development**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/corv_iyari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="corv_iyari" height="30" width="40" /></a>
